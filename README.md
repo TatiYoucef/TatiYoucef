@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I'm Youcef
 
-<!--
-**TatiYoucef/TatiYoucef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Portfolio Landing
+Welcome to my GitHub profile. I build full-stack web applications, backend services, and applied research projects.
 
-Here are some ideas to get you started:
+- 🌐 **Portfolio & Bio:** [github.com/TatiYoucef](https://github.com/TatiYoucef)
+- 💻 **Tech I use:** TypeScript, JavaScript, Python, Angular, Node.js/Express, Django, CUDA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [Material_Management_RES_ESI](https://github.com/TatiYoucef/Material_Management_RES_ESI) — Full-stack platform for materials, rooms, reservations, and file management (Angular + Node.js/Express).
+- [UT-Backend](https://github.com/TatiYoucef/UT-Backend) — Backend-focused Node.js service project.
+- [Web-App-DPI](https://github.com/TatiYoucef/Web-App-DPI) — Medical document management web app (Angular + Django).
+- [Unfazed-Time](https://github.com/TatiYoucef/Unfazed-Time) — Angular web application.
+- [HPC-CUDA-Research-Project](https://github.com/TatiYoucef/HPC-CUDA-Research-Project) — Research-oriented GPU/CUDA project.
+- [TreasureWeb](https://github.com/TatiYoucef/TreasureWeb) — Interactive browser puzzle experience for a live event.
+
+### Focus Areas
+- Full-stack web development
+- Backend APIs and authentication
+- Applied algorithms and performance-oriented projects
