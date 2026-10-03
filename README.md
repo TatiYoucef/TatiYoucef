@@ -2,9 +2,9 @@
 
 # Tati Youcef
 
-**Fifth Year Computer Science Student — École Nationale Supérieure d'Informatique (ESI), Algiers**
+**Final Year Computer Science Student — École Nationale Supérieure d'Informatique (ESI), Algiers**
 
-Networks · Systems · Machine Learning · Cybersecurity
+Networks · Systems · Cloud infrastructure · Cybersecurity
 
 [![Email](https://img.shields.io/badge/Email-my__tati%40esi.dz-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:my_tati@esi.dz)
 [![GitHub](https://img.shields.io/badge/GitHub-TatiYoucef-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TatiYoucef)
@@ -63,13 +63,39 @@ Interested in network infrastructure, cybersecurity, software engineering, code 
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Containerlab](https://img.shields.io/badge/Containerlab-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VLAN/Routing](https://img.shields.io/badge/VLANs%20%2F%20Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
+![Kemp](https://img.shields.io/badge/Kemp-Load_balancing-224A63?style=flat-square)
 
 ---
 
 ## Featured Projects
 
+### OpenStack private cloud — Final-year capstone project
+
+**In progress · ESI Algiers**
+
+Working on the design, deployment and evaluation of a private IaaS cloud. The project scope covers OpenStack identity, compute, networking, storage, images and dashboard services, with planned validation of network isolation, access control, VM provisioning and performance. Technical documentation and possible orchestration improvements are also part of the project scope.
+
+`OpenStack` `Private cloud` `IaaS` `Virtualization` `Networking`
+
+### B2B veterinary clinic management platform
+
+**In development**
+
+Developing a software project for Algerian veterinary practices. Its scope includes clinical records, appointments, stock, billing and reminders. The design calls for French/Arabic interfaces, offline operation and access controls; implementation is ongoing.
+
+`B2B software` `Web applications` `Clinic management`
+
+### Moodle load-balancing prototype
+
+*August 2026 · ESI datacenter*
+
+Deployed a working local prototype using VMware ESXi, Kemp and virtualization to serve Moodle through a load balancer. **Further performance testing is required before production deployment.**
+
+`VMware ESXi` `Kemp` `Moodle` `Load balancing`
+
 ### [RL-Guided Hybrid Genetic Algorithm for 1D Bin Packing](https://github.com/TatiYoucef/rl-hgga-bin-packing)
-*May 2026 – Present*
+*May 2026 – June 2026*
 
 Research project combining reinforcement learning and metaheuristics for combinatorial optimization. Re-implements a Hybrid Grouping Genetic Algorithm and integrates a tabular Q-learning agent to dynamically select crossover, mutation, local-search, and restart strategies. Contributed to benchmarking, heuristic baselines, state/reward design, and experiment documentation.
 
@@ -82,12 +108,24 @@ Led deployment of a simulated university datacenter network using Containerlab, 
 
 `Containerlab` `Docker` `Networking` `EVPN/VXLAN`
 
-### [Medical Office Management System](https://github.com/TatiYoucef/Web-App-DPI)
-*November 2024 – February 2025*
+### [Network equipment management application](https://github.com/TatiYoucef/Material_Management_RES_ESI)
 
-Electronic Health Record platform built with Angular, Django, and MySQL. Contributed to secure patient-data management, user-friendly interfaces, and backend integration for healthcare workflows.
+*July–August 2025 · ESI datacenter*
 
-`Angular` `Django` `MySQL`
+Built a full-stack application for the IT networking team to track equipment stock, allocations and lifecycle, with backend inventory logic and an interface for equipment lookup. **The application was approved but has not been deployed.**
+
+`Full-stack development` `Inventory management`
+
+---
+## Networking certificates
+
+Completed the three **Cisco Networking Academy CCNA courses**, with course completion certificates:
+
+1. **CCNA 1:** Introduction to Networks
+2. **CCNA 2:** Switching, Routing, and Wireless Essentials
+3. **CCNA 3:** Enterprise Networking, Security, and Automation
+
+![Cisco Networking Academy](https://img.shields.io/badge/Cisco_Networking_Academy-3_CCNA_courses_completed-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
